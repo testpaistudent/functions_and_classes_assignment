@@ -52,7 +52,7 @@ if __name__ == '__main__':
     """
     Create and run test cases here if you wish. There is a jupyter notebook that was created also that once you have
     finished writing this class, you should be able to run the cells and visualize the trendline created from this
-    code. 
+    code. The notebook is called TrendLine_Test.ipynb. 
     """
     #########CREATE TEST CASES HERE###########
     pass
