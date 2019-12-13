@@ -9,5 +9,6 @@ f([0, -4, 2, -3, 6, -1, 8, 6]) should return 22.
 
 def f(l):
     ##########YOUR CODE HERE##########
+    print(len(l))
     pass
     ###########END CODE###############
