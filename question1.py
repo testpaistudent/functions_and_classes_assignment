@@ -9,10 +9,5 @@ location. For example, f([1,2,3,2,3,1]) should return 4.
 """
 def f(l):
     ##########YOUR CODE HERE##########
-    index = 0
-    m = max(l)
-    for i in range(len(l)):
-        if l[i] == m:
-            index = i
-    return index
+    return sum(l)
     ###########END CODE###############
